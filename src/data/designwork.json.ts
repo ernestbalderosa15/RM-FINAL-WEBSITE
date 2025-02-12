@@ -1,11 +1,9 @@
 export const byName: string[] = [
-    "Redesigns",
-    "Refactors",
-    "Components",
-    "Landing pages",
-    "Full website",
-    "Open Graphs",
-    "Social media assets",
-  ];
+  "Figma prototyping",
+  "Competitor research",
+  "Custom icons & components",
+  "Full website design",
+  "Unlimited Revisions",
+];
 
-  export const designwork = byName.map(title => ({ title }));
+export const designwork = byName.map(title => ({ title }));
